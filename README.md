@@ -1,2 +1,2 @@
 # SQL-with-Python
-Do you know you can use SQL with Python to write queries?
+If you are looking to leverage python to query data using a database, then you may want to check this out. An amalgamation of SQLite and Python can help you query by connecting to a database. You can also develop your custom SQL database by generating your necessary data in any specific format with the assistance of an interface like APIs. The simplicity of a SQLite3 package helps you to write a SQL query in its traditional format by integrating it with the python syntaxes.
